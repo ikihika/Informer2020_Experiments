@@ -1,0 +1,30 @@
+Args in experiment:
+Namespace(model='informer', data='custom', root_path='./data/', data_path='AAPL_M_2022-06-04_2025-06-04.csv', features='M', target='Close', freq='d', checkpoints='./checkpoints/', seq_len=96, label_len=48, pred_len=24, enc_in=5, dec_in=5, c_out=1, d_model=512, n_heads=8, e_layers=2, d_layers=1, s_layers=[3, 2, 1], d_ff=2048, factor=5, padding=0, distil=True, dropout=0.05, attn='prob', embed='timeF', activation='gelu', output_attention=False, do_predict=False, mix=True, cols=None, num_workers=4, itr=1, train_epochs=10, batch_size=16, patience=3, learning_rate=0.001, des='aapl_M_test_aapl_M_20250605_153542', loss='mse', lradj='type1', use_amp=False, inverse=False, use_gpu=True, gpu=0, use_multi_gpu=False, devices='0,1,2,3', detail_freq='d')
+Use GPU: cuda:0
+DEBUG: PositionalEmbedding __init__ received d_model: 512
+DEBUG: PositionalEmbedding __init__ received d_model: 512
+>>>>>>>start training : informer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_aapl_M_test_aapl_M_20250605_153542_0>>>>>>>>>>>>>>>>>>>>>>>>>>
+train 648
+val 88
+test 196
+Epoch: 1 cost time: 0.521047830581665
+Epoch: 1, Steps: 40 | Train Loss: 2.3535580 Vali Loss: 4.4006939 Test Loss: 4.8952765
+Validation loss decreased (inf --> 4.400694).  Saving model ...
+Updating learning rate to 0.001
+Epoch: 2 cost time: 0.32526206970214844
+Epoch: 2, Steps: 40 | Train Loss: 0.5975405 Vali Loss: 5.9600444 Test Loss: 7.0768051
+EarlyStopping counter: 1 out of 3
+Updating learning rate to 0.0005
+Epoch: 3 cost time: 0.33470940589904785
+Epoch: 3, Steps: 40 | Train Loss: 0.5349621 Vali Loss: 5.1758518 Test Loss: 6.1107230
+EarlyStopping counter: 2 out of 3
+Updating learning rate to 0.00025
+Epoch: 4 cost time: 0.30909085273742676
+Epoch: 4, Steps: 40 | Train Loss: 0.5069462 Vali Loss: 5.3777037 Test Loss: 6.2626929
+EarlyStopping counter: 3 out of 3
+Early stopping
+>>>>>>>testing : informer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_aapl_M_test_aapl_M_20250605_153542_0<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+test 196
+test shape: (12, 16, 24, 1) (12, 16, 24, 5)
+test shape: (192, 24, 1) (192, 24, 5)
+mse:4.890495777130127, mae:2.0266222953796387

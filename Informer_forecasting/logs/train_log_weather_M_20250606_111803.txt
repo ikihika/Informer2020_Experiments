@@ -1,0 +1,38 @@
+Args in experiment:
+Namespace(model='informer', data='custom', root_path='./data/', data_path='weather_M_2025_06_06.csv', features='M', target='temperature_2m_max', freq='d', checkpoints='./checkpoints/', seq_len=96, label_len=48, pred_len=24, enc_in=3, dec_in=3, c_out=3, d_model=512, n_heads=8, e_layers=2, d_layers=1, s_layers=[3, 2, 1], d_ff=2048, factor=5, padding=0, distil=True, dropout=0.05, attn='prob', embed='timeF', activation='gelu', output_attention=False, do_predict=False, mix=True, cols=None, num_workers=4, itr=1, train_epochs=10, batch_size=16, patience=3, learning_rate=0.001, des='weather_M_test_weather_M_20250606_111803', loss='mse', lradj='type1', use_amp=False, inverse=False, use_gpu=True, gpu=0, use_multi_gpu=False, devices='0,1,2,3', detail_freq='d')
+Use GPU: cuda:0
+DEBUG: PositionalEmbedding __init__ received d_model: 512
+DEBUG: PositionalEmbedding __init__ received d_model: 512
+>>>>>>>start training : informer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_weather_M_test_weather_M_20250606_111803_0>>>>>>>>>>>>>>>>>>>>>>>>>>
+train 319
+val 40
+test 102
+Epoch: 1 cost time: 0.36611008644104004
+Epoch: 1, Steps: 19 | Train Loss: 2.1795993 Vali Loss: 1.3078249 Test Loss: 1.3692786
+Validation loss decreased (inf --> 1.307825).  Saving model ...
+Updating learning rate to 0.001
+Epoch: 2 cost time: 0.17926263809204102
+Epoch: 2, Steps: 19 | Train Loss: 0.9990904 Vali Loss: 1.0673643 Test Loss: 1.2760249
+Validation loss decreased (1.307825 --> 1.067364).  Saving model ...
+Updating learning rate to 0.0005
+Epoch: 3 cost time: 0.16755104064941406
+Epoch: 3, Steps: 19 | Train Loss: 0.8819167 Vali Loss: 0.8492060 Test Loss: 0.9397308
+Validation loss decreased (1.067364 --> 0.849206).  Saving model ...
+Updating learning rate to 0.00025
+Epoch: 4 cost time: 0.20902729034423828
+Epoch: 4, Steps: 19 | Train Loss: 0.8806854 Vali Loss: 0.8947998 Test Loss: 0.9677396
+EarlyStopping counter: 1 out of 3
+Updating learning rate to 0.000125
+Epoch: 5 cost time: 0.16963481903076172
+Epoch: 5, Steps: 19 | Train Loss: 0.8438095 Vali Loss: 0.9074022 Test Loss: 1.0336274
+EarlyStopping counter: 2 out of 3
+Updating learning rate to 6.25e-05
+Epoch: 6 cost time: 0.1732642650604248
+Epoch: 6, Steps: 19 | Train Loss: 0.8322936 Vali Loss: 0.8585619 Test Loss: 1.0363816
+EarlyStopping counter: 3 out of 3
+Early stopping
+>>>>>>>testing : informer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_weather_M_test_weather_M_20250606_111803_0<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+test 102
+test shape: (6, 16, 24, 3) (6, 16, 24, 3)
+test shape: (96, 24, 3) (96, 24, 3)
+mse:0.9339770674705505, mae:0.7284347414970398
