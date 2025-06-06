@@ -1,0 +1,75 @@
+2025-06-06 10:43:29,588 - INFO - Attempt 1: Fetching data for 2024-05-21 to 2024-07-20
+2025-06-06 10:43:30,883 - INFO - Success: Data retrieved for 2024-05-21 to 2024-07-20
+2025-06-06 10:43:30,883 - INFO - Attempt 1: Fetching data for 2023-05-21 to 2023-07-20
+2025-06-06 10:43:32,135 - INFO - Success: Data retrieved for 2023-05-21 to 2023-07-20
+2025-06-06 10:43:32,136 - INFO - Attempt 1: Fetching data for 2022-05-21 to 2022-07-20
+2025-06-06 10:43:33,277 - INFO - Success: Data retrieved for 2022-05-21 to 2022-07-20
+2025-06-06 10:43:33,278 - INFO - Attempt 1: Fetching data for 2021-05-21 to 2021-07-20
+2025-06-06 10:43:34,416 - INFO - Success: Data retrieved for 2021-05-21 to 2021-07-20
+2025-06-06 10:43:34,417 - INFO - Attempt 1: Fetching data for 2020-05-21 to 2020-07-20
+2025-06-06 10:43:35,540 - INFO - Success: Data retrieved for 2020-05-21 to 2020-07-20
+2025-06-06 10:43:35,540 - INFO - Attempt 1: Fetching data for 2019-05-21 to 2019-07-20
+2025-06-06 10:43:36,741 - INFO - Success: Data retrieved for 2019-05-21 to 2019-07-20
+2025-06-06 10:43:36,741 - INFO - Attempt 1: Fetching data for 2018-05-21 to 2018-07-20
+2025-06-06 10:43:37,925 - INFO - Success: Data retrieved for 2018-05-21 to 2018-07-20
+2025-06-06 10:43:37,926 - INFO - Attempt 1: Fetching data for 2017-05-21 to 2017-07-20
+2025-06-06 10:43:39,150 - INFO - Success: Data retrieved for 2017-05-21 to 2017-07-20
+2025-06-06 10:43:39,150 - INFO - Attempt 1: Fetching data for 2016-05-21 to 2016-07-20
+2025-06-06 10:43:40,293 - INFO - Success: Data retrieved for 2016-05-21 to 2016-07-20
+2025-06-06 10:43:40,293 - INFO - Attempt 1: Fetching data for 2015-05-21 to 2015-07-20
+2025-06-06 10:43:41,516 - INFO - Success: Data retrieved for 2015-05-21 to 2015-07-20
+2025-06-06 10:45:38,079 - INFO - Attempt 1: Fetching data for 2024-05-21 to 2024-07-20
+2025-06-06 10:45:39,256 - INFO - Success: Data retrieved for 2024-05-21 to 2024-07-20
+2025-06-06 10:45:39,256 - INFO - Attempt 1: Fetching data for 2023-05-21 to 2023-07-20
+2025-06-06 10:45:40,385 - INFO - Success: Data retrieved for 2023-05-21 to 2023-07-20
+2025-06-06 10:45:40,386 - INFO - Attempt 1: Fetching data for 2022-05-21 to 2022-07-20
+2025-06-06 10:45:41,618 - INFO - Success: Data retrieved for 2022-05-21 to 2022-07-20
+2025-06-06 10:45:41,618 - INFO - Attempt 1: Fetching data for 2021-05-21 to 2021-07-20
+2025-06-06 10:45:42,855 - INFO - Success: Data retrieved for 2021-05-21 to 2021-07-20
+2025-06-06 10:45:42,855 - INFO - Attempt 1: Fetching data for 2020-05-21 to 2020-07-20
+2025-06-06 10:45:44,008 - INFO - Success: Data retrieved for 2020-05-21 to 2020-07-20
+2025-06-06 10:45:44,008 - INFO - Attempt 1: Fetching data for 2019-05-21 to 2019-07-20
+2025-06-06 10:45:45,236 - INFO - Success: Data retrieved for 2019-05-21 to 2019-07-20
+2025-06-06 10:45:45,237 - INFO - Attempt 1: Fetching data for 2018-05-21 to 2018-07-20
+2025-06-06 10:45:46,465 - INFO - Success: Data retrieved for 2018-05-21 to 2018-07-20
+2025-06-06 10:45:46,465 - INFO - Attempt 1: Fetching data for 2017-05-21 to 2017-07-20
+2025-06-06 10:45:47,697 - INFO - Success: Data retrieved for 2017-05-21 to 2017-07-20
+2025-06-06 10:45:47,698 - INFO - Attempt 1: Fetching data for 2016-05-21 to 2016-07-20
+2025-06-06 10:45:48,915 - INFO - Success: Data retrieved for 2016-05-21 to 2016-07-20
+2025-06-06 10:45:48,915 - INFO - Attempt 1: Fetching data for 2015-05-21 to 2015-07-20
+2025-06-06 10:45:50,047 - INFO - Success: Data retrieved for 2015-05-21 to 2015-07-20
+2025-06-06 11:12:23,450 - INFO - Attempt 1: Fetching data for 2024-05-21 to 2024-07-20
+2025-06-06 11:12:24,680 - INFO - Success: Data retrieved for 2024-05-21 to 2024-07-20
+2025-06-06 11:12:24,680 - INFO - Successfully collected data for year 2024
+2025-06-06 11:12:24,680 - INFO - Attempt 1: Fetching data for 2023-05-21 to 2023-07-20
+2025-06-06 11:12:25,831 - INFO - Success: Data retrieved for 2023-05-21 to 2023-07-20
+2025-06-06 11:12:25,831 - INFO - Successfully collected data for year 2023
+2025-06-06 11:12:25,832 - INFO - Attempt 1: Fetching data for 2022-05-21 to 2022-07-20
+2025-06-06 11:12:26,955 - INFO - Success: Data retrieved for 2022-05-21 to 2022-07-20
+2025-06-06 11:12:26,956 - INFO - Successfully collected data for year 2022
+2025-06-06 11:12:26,956 - INFO - Attempt 1: Fetching data for 2021-05-21 to 2021-07-20
+2025-06-06 11:12:28,221 - INFO - Success: Data retrieved for 2021-05-21 to 2021-07-20
+2025-06-06 11:12:28,221 - INFO - Successfully collected data for year 2021
+2025-06-06 11:12:28,222 - INFO - Attempt 1: Fetching data for 2020-05-21 to 2020-07-20
+2025-06-06 11:12:29,351 - INFO - Success: Data retrieved for 2020-05-21 to 2020-07-20
+2025-06-06 11:12:29,351 - INFO - Successfully collected data for year 2020
+2025-06-06 11:12:29,351 - INFO - Attempt 1: Fetching data for 2019-05-21 to 2019-07-20
+2025-06-06 11:12:30,590 - INFO - Success: Data retrieved for 2019-05-21 to 2019-07-20
+2025-06-06 11:12:30,590 - INFO - Successfully collected data for year 2019
+2025-06-06 11:12:30,591 - INFO - Attempt 1: Fetching data for 2018-05-21 to 2018-07-20
+2025-06-06 11:12:31,744 - INFO - Success: Data retrieved for 2018-05-21 to 2018-07-20
+2025-06-06 11:12:31,745 - INFO - Successfully collected data for year 2018
+2025-06-06 11:12:31,745 - INFO - Attempt 1: Fetching data for 2017-05-21 to 2017-07-20
+2025-06-06 11:12:32,992 - INFO - Success: Data retrieved for 2017-05-21 to 2017-07-20
+2025-06-06 11:12:32,993 - INFO - Successfully collected data for year 2017
+2025-06-06 11:12:32,993 - INFO - Attempt 1: Fetching data for 2016-05-21 to 2016-07-20
+2025-06-06 11:12:34,238 - INFO - Success: Data retrieved for 2016-05-21 to 2016-07-20
+2025-06-06 11:12:34,238 - INFO - Successfully collected data for year 2016
+2025-06-06 11:12:34,238 - INFO - Attempt 1: Fetching data for 2015-05-21 to 2015-07-20
+2025-06-06 11:12:35,467 - INFO - Success: Data retrieved for 2015-05-21 to 2015-07-20
+2025-06-06 11:12:35,467 - INFO - Successfully collected data for year 2015
+2025-06-06 11:12:35,468 - INFO - Attempting to collect data for current year 2025.
+2025-06-06 11:12:35,468 - INFO - Fetching current year data from 2025-05-21 to 2025-06-05
+2025-06-06 11:12:35,468 - INFO - Attempt 1: Fetching data for 2025-05-21 to 2025-06-05
+2025-06-06 11:12:36,688 - INFO - Success: Data retrieved for 2025-05-21 to 2025-06-05
+2025-06-06 11:12:36,689 - INFO - Successfully collected data for current year 2025

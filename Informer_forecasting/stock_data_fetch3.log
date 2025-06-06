@@ -1,0 +1,120 @@
+2025-05-30 10:05:43,050 - INFO - Attempt 1: Fetching data for AAPL - 2023-01
+2025-05-30 10:05:43,341 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:05:58,357 - INFO - Attempt 1: Fetching data for AAPL - 2023-02
+2025-05-30 10:05:58,596 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:06:13,611 - INFO - Attempt 1: Fetching data for AAPL - 2023-03
+2025-05-30 10:06:13,841 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:06:28,856 - INFO - Attempt 1: Fetching data for AAPL - 2023-04
+2025-05-30 10:06:29,094 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:06:44,109 - INFO - Attempt 1: Fetching data for AAPL - 2023-05
+2025-05-30 10:06:44,335 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:06:59,351 - INFO - Attempt 1: Fetching data for AAPL - 2023-06
+2025-05-30 10:06:59,912 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:07:14,927 - INFO - Attempt 1: Fetching data for AAPL - 2023-07
+2025-05-30 10:07:15,160 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:07:30,176 - INFO - Attempt 1: Fetching data for AAPL - 2023-08
+2025-05-30 10:07:30,403 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:07:45,418 - INFO - Attempt 1: Fetching data for AAPL - 2023-09
+2025-05-30 10:07:45,650 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:08:00,665 - INFO - Attempt 1: Fetching data for AAPL - 2023-10
+2025-05-30 10:08:00,905 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:08:15,921 - INFO - Attempt 1: Fetching data for AAPL - 2023-11
+2025-05-30 10:08:16,156 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:08:31,172 - INFO - Attempt 1: Fetching data for AAPL - 2023-12
+2025-05-30 10:08:31,718 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:08:46,734 - INFO - Attempt 1: Fetching data for AAPL - 2024-01
+2025-05-30 10:08:46,964 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:09:01,980 - INFO - Attempt 1: Fetching data for AAPL - 2024-02
+2025-05-30 10:09:02,212 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:09:17,227 - INFO - Attempt 1: Fetching data for AAPL - 2024-03
+2025-05-30 10:09:17,460 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:09:32,471 - INFO - Attempt 1: Fetching data for AAPL - 2024-04
+2025-05-30 10:09:32,697 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:09:47,713 - INFO - Attempt 1: Fetching data for AAPL - 2024-05
+2025-05-30 10:09:47,943 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:10:02,959 - INFO - Attempt 1: Fetching data for AAPL - 2024-06
+2025-05-30 10:10:03,193 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:10:18,209 - INFO - Attempt 1: Fetching data for AAPL - 2024-07
+2025-05-30 10:10:18,441 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:10:33,452 - INFO - Attempt 1: Fetching data for AAPL - 2024-08
+2025-05-30 10:10:33,684 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:10:48,700 - INFO - Attempt 1: Fetching data for AAPL - 2024-09
+2025-05-30 10:10:48,931 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:11:03,946 - INFO - Attempt 1: Fetching data for AAPL - 2024-10
+2025-05-30 10:11:04,181 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:11:19,197 - INFO - Attempt 1: Fetching data for AAPL - 2024-11
+2025-05-30 10:11:19,445 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-30 10:11:34,461 - INFO - Attempt 1: Fetching data for AAPL - 2024-12
+2025-05-30 10:11:34,690 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}

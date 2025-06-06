@@ -1,0 +1,234 @@
+2025-05-29 15:26:37,509 - INFO - Attempt 1: Fetching data for AAPL - 2023-01
+2025-05-29 15:26:38,054 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:26:53,067 - INFO - Attempt 1: Fetching data for AAPL - 2023-02
+2025-05-29 15:26:53,625 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:27:08,640 - INFO - Attempt 1: Fetching data for AAPL - 2023-03
+2025-05-29 15:27:09,188 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:27:24,204 - INFO - Attempt 1: Fetching data for AAPL - 2023-04
+2025-05-29 15:27:24,752 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:27:39,767 - INFO - Attempt 1: Fetching data for AAPL - 2023-05
+2025-05-29 15:27:39,991 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:27:55,006 - INFO - Attempt 1: Fetching data for AAPL - 2023-06
+2025-05-29 15:27:55,584 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:28:10,599 - INFO - Attempt 1: Fetching data for AAPL - 2023-07
+2025-05-29 15:28:10,829 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:28:25,844 - INFO - Attempt 1: Fetching data for AAPL - 2023-08
+2025-05-29 15:28:26,379 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:28:41,394 - INFO - Attempt 1: Fetching data for AAPL - 2023-09
+2025-05-29 15:28:41,629 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:28:56,637 - INFO - Attempt 1: Fetching data for AAPL - 2023-10
+2025-05-29 15:28:56,868 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:29:11,883 - INFO - Attempt 1: Fetching data for AAPL - 2023-11
+2025-05-29 15:29:12,108 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:29:27,123 - INFO - Attempt 1: Fetching data for AAPL - 2023-12
+2025-05-29 15:29:27,341 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:29:42,357 - INFO - Attempt 1: Fetching data for AAPL - 2024-01
+2025-05-29 15:29:42,905 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:29:57,921 - INFO - Attempt 1: Fetching data for AAPL - 2024-02
+2025-05-29 15:29:58,462 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:30:13,478 - INFO - Attempt 1: Fetching data for AAPL - 2024-03
+2025-05-29 15:30:14,030 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:30:29,046 - INFO - Attempt 1: Fetching data for AAPL - 2024-04
+2025-05-29 15:30:29,625 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:30:44,640 - INFO - Attempt 1: Fetching data for AAPL - 2024-05
+2025-05-29 15:30:44,912 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:30:59,926 - INFO - Attempt 1: Fetching data for AAPL - 2024-06
+2025-05-29 15:31:00,477 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:31:15,493 - INFO - Attempt 1: Fetching data for AAPL - 2024-07
+2025-05-29 15:31:16,073 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:31:31,089 - INFO - Attempt 1: Fetching data for AAPL - 2024-08
+2025-05-29 15:31:31,638 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:31:46,644 - INFO - Attempt 1: Fetching data for AAPL - 2024-09
+2025-05-29 15:31:47,192 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:32:02,207 - INFO - Attempt 1: Fetching data for AAPL - 2024-10
+2025-05-29 15:32:02,745 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:32:17,760 - INFO - Attempt 1: Fetching data for AAPL - 2024-11
+2025-05-29 15:32:18,343 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:32:33,359 - INFO - Attempt 1: Fetching data for AAPL - 2024-12
+2025-05-29 15:32:33,905 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:40:56,458 - INFO - Attempt 1: Fetching data for AAPL - 2023-01
+2025-05-29 15:40:57,249 - INFO - Success: Data retrieved for AAPL - 2023-01
+2025-05-29 15:41:12,265 - INFO - Attempt 1: Fetching data for AAPL - 2023-02
+2025-05-29 15:41:12,677 - INFO - Success: Data retrieved for AAPL - 2023-02
+2025-05-29 15:41:27,692 - INFO - Attempt 1: Fetching data for AAPL - 2023-03
+2025-05-29 15:41:28,258 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:41:43,274 - INFO - Attempt 1: Fetching data for AAPL - 2023-04
+2025-05-29 15:41:43,829 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:41:58,845 - INFO - Attempt 1: Fetching data for AAPL - 2023-05
+2025-05-29 15:41:59,393 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:42:14,408 - INFO - Attempt 1: Fetching data for AAPL - 2023-06
+2025-05-29 15:42:14,642 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:42:29,658 - INFO - Attempt 1: Fetching data for AAPL - 2023-07
+2025-05-29 15:42:30,243 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:42:45,258 - INFO - Attempt 1: Fetching data for AAPL - 2023-08
+2025-05-29 15:42:45,491 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:43:00,506 - INFO - Attempt 1: Fetching data for AAPL - 2023-09
+2025-05-29 15:43:01,054 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:43:16,070 - INFO - Attempt 1: Fetching data for AAPL - 2023-10
+2025-05-29 15:43:16,331 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:43:31,332 - INFO - Attempt 1: Fetching data for AAPL - 2023-11
+2025-05-29 15:43:31,910 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:43:46,925 - INFO - Attempt 1: Fetching data for AAPL - 2023-12
+2025-05-29 15:43:47,512 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:44:02,527 - INFO - Attempt 1: Fetching data for AAPL - 2024-01
+2025-05-29 15:44:02,757 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:44:17,772 - INFO - Attempt 1: Fetching data for AAPL - 2024-02
+2025-05-29 15:44:18,313 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:44:33,329 - INFO - Attempt 1: Fetching data for AAPL - 2024-03
+2025-05-29 15:44:33,895 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:44:48,911 - INFO - Attempt 1: Fetching data for AAPL - 2024-04
+2025-05-29 15:44:49,466 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:45:04,481 - INFO - Attempt 1: Fetching data for AAPL - 2024-05
+2025-05-29 15:45:04,718 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:45:19,733 - INFO - Attempt 1: Fetching data for AAPL - 2024-06
+2025-05-29 15:45:20,289 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:45:35,305 - INFO - Attempt 1: Fetching data for AAPL - 2024-07
+2025-05-29 15:45:35,533 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:45:50,549 - INFO - Attempt 1: Fetching data for AAPL - 2024-08
+2025-05-29 15:45:51,103 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:46:06,119 - INFO - Attempt 1: Fetching data for AAPL - 2024-09
+2025-05-29 15:46:06,678 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:46:21,694 - INFO - Attempt 1: Fetching data for AAPL - 2024-10
+2025-05-29 15:46:22,237 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:46:37,252 - INFO - Attempt 1: Fetching data for AAPL - 2024-11
+2025-05-29 15:46:37,822 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}
+2025-05-29 15:46:52,838 - INFO - Attempt 1: Fetching data for AAPL - 2024-12
+2025-05-29 15:46:53,390 - WARNING - Unexpected response format:
+{
+    "Information": "We have detected your API key as 5S5MM38JANJN6T0U and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits."
+}

@@ -1,0 +1,432 @@
+2025-05-29 13:04:28,581 - INFO - Attempt 1: Fetching data for AAPL - year1month1
+2025-05-29 13:04:28,807 - INFO - Success: Data retrieved for AAPL - year1month1
+2025-05-29 13:04:43,812 - INFO - Attempt 1: Fetching data for AAPL - year1month2
+2025-05-29 13:04:44,083 - INFO - Success: Data retrieved for AAPL - year1month2
+2025-05-29 13:04:59,099 - INFO - Attempt 1: Fetching data for AAPL - year1month3
+2025-05-29 13:04:59,326 - INFO - Success: Data retrieved for AAPL - year1month3
+2025-05-29 13:05:14,341 - INFO - Attempt 1: Fetching data for AAPL - year1month4
+2025-05-29 13:05:14,577 - INFO - Success: Data retrieved for AAPL - year1month4
+2025-05-29 13:05:29,592 - INFO - Attempt 1: Fetching data for AAPL - year1month5
+2025-05-29 13:05:29,818 - INFO - Success: Data retrieved for AAPL - year1month5
+2025-05-29 13:05:44,834 - INFO - Attempt 1: Fetching data for AAPL - year1month6
+2025-05-29 13:05:45,071 - INFO - Success: Data retrieved for AAPL - year1month6
+2025-05-29 13:06:00,080 - INFO - Attempt 1: Fetching data for AAPL - year1month7
+2025-05-29 13:06:00,324 - INFO - Success: Data retrieved for AAPL - year1month7
+2025-05-29 13:06:15,340 - INFO - Attempt 1: Fetching data for AAPL - year1month8
+2025-05-29 13:06:15,566 - INFO - Success: Data retrieved for AAPL - year1month8
+2025-05-29 13:06:30,581 - INFO - Attempt 1: Fetching data for AAPL - year1month9
+2025-05-29 13:06:30,804 - INFO - Success: Data retrieved for AAPL - year1month9
+2025-05-29 13:06:45,819 - INFO - Attempt 1: Fetching data for AAPL - year1month10
+2025-05-29 13:06:46,041 - INFO - Success: Data retrieved for AAPL - year1month10
+2025-05-29 13:07:01,057 - INFO - Attempt 1: Fetching data for AAPL - year1month11
+2025-05-29 13:07:01,282 - INFO - Success: Data retrieved for AAPL - year1month11
+2025-05-29 13:07:16,297 - INFO - Attempt 1: Fetching data for AAPL - year1month12
+2025-05-29 13:07:16,526 - INFO - Success: Data retrieved for AAPL - year1month12
+2025-05-29 13:07:31,541 - INFO - Attempt 1: Fetching data for AAPL - year2month1
+2025-05-29 13:07:31,767 - INFO - Success: Data retrieved for AAPL - year2month1
+2025-05-29 13:07:46,782 - INFO - Attempt 1: Fetching data for AAPL - year2month2
+2025-05-29 13:07:47,011 - INFO - Success: Data retrieved for AAPL - year2month2
+2025-05-29 13:08:02,027 - INFO - Attempt 1: Fetching data for AAPL - year2month3
+2025-05-29 13:08:02,268 - INFO - Success: Data retrieved for AAPL - year2month3
+2025-05-29 13:08:17,284 - INFO - Attempt 1: Fetching data for AAPL - year2month4
+2025-05-29 13:08:17,824 - INFO - Success: Data retrieved for AAPL - year2month4
+2025-05-29 13:08:32,832 - INFO - Attempt 1: Fetching data for AAPL - year2month5
+2025-05-29 13:08:33,056 - INFO - Success: Data retrieved for AAPL - year2month5
+2025-05-29 13:08:48,071 - INFO - Attempt 1: Fetching data for AAPL - year2month6
+2025-05-29 13:08:48,331 - INFO - Success: Data retrieved for AAPL - year2month6
+2025-05-29 13:09:03,346 - INFO - Attempt 1: Fetching data for AAPL - year2month7
+2025-05-29 13:09:03,585 - INFO - Success: Data retrieved for AAPL - year2month7
+2025-05-29 13:09:18,601 - INFO - Attempt 1: Fetching data for AAPL - year2month8
+2025-05-29 13:09:18,821 - INFO - Success: Data retrieved for AAPL - year2month8
+2025-05-29 13:09:33,836 - INFO - Attempt 1: Fetching data for AAPL - year2month9
+2025-05-29 13:09:34,074 - INFO - Success: Data retrieved for AAPL - year2month9
+2025-05-29 13:09:49,076 - INFO - Attempt 1: Fetching data for AAPL - year2month10
+2025-05-29 13:09:49,309 - INFO - Success: Data retrieved for AAPL - year2month10
+2025-05-29 13:10:04,325 - INFO - Attempt 1: Fetching data for AAPL - year2month11
+2025-05-29 13:10:04,881 - INFO - Success: Data retrieved for AAPL - year2month11
+2025-05-29 13:10:19,896 - INFO - Attempt 1: Fetching data for AAPL - year2month12
+2025-05-29 13:10:20,146 - INFO - Success: Data retrieved for AAPL - year2month12
+2025-05-29 13:46:23,036 - INFO - Attempt 1: Fetching data for AAPL - year1month1
+2025-05-29 13:46:23,274 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:46:38,289 - INFO - Attempt 1: Fetching data for AAPL - year1month2
+2025-05-29 13:46:38,522 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:46:53,538 - INFO - Attempt 1: Fetching data for AAPL - year1month3
+2025-05-29 13:46:53,769 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:47:08,784 - INFO - Attempt 1: Fetching data for AAPL - year1month4
+2025-05-29 13:47:09,009 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:47:24,025 - INFO - Attempt 1: Fetching data for AAPL - year1month5
+2025-05-29 13:47:24,251 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:47:39,266 - INFO - Attempt 1: Fetching data for AAPL - year1month6
+2025-05-29 13:47:39,533 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:47:54,548 - INFO - Attempt 1: Fetching data for AAPL - year1month7
+2025-05-29 13:47:54,776 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:48:09,792 - INFO - Attempt 1: Fetching data for AAPL - year1month8
+2025-05-29 13:48:10,013 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:48:25,029 - INFO - Attempt 1: Fetching data for AAPL - year1month9
+2025-05-29 13:48:25,280 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:48:40,289 - INFO - Attempt 1: Fetching data for AAPL - year1month10
+2025-05-29 13:48:40,510 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:48:55,525 - INFO - Attempt 1: Fetching data for AAPL - year1month11
+2025-05-29 13:48:55,753 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:49:10,769 - INFO - Attempt 1: Fetching data for AAPL - year1month12
+2025-05-29 13:49:10,997 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:49:26,013 - INFO - Attempt 1: Fetching data for AAPL - year2month1
+2025-05-29 13:49:26,239 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:49:41,255 - INFO - Attempt 1: Fetching data for AAPL - year2month2
+2025-05-29 13:49:41,477 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:49:56,492 - INFO - Attempt 1: Fetching data for AAPL - year2month3
+2025-05-29 13:49:56,736 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:50:11,751 - INFO - Attempt 1: Fetching data for AAPL - year2month4
+2025-05-29 13:50:11,975 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:50:26,990 - INFO - Attempt 1: Fetching data for AAPL - year2month5
+2025-05-29 13:50:27,213 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:50:42,228 - INFO - Attempt 1: Fetching data for AAPL - year2month6
+2025-05-29 13:50:42,775 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:50:57,790 - INFO - Attempt 1: Fetching data for AAPL - year2month7
+2025-05-29 13:50:58,012 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:51:13,027 - INFO - Attempt 1: Fetching data for AAPL - year2month8
+2025-05-29 13:51:13,272 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:51:28,287 - INFO - Attempt 1: Fetching data for AAPL - year2month9
+2025-05-29 13:51:28,518 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:51:43,533 - INFO - Attempt 1: Fetching data for AAPL - year2month10
+2025-05-29 13:51:43,789 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:51:58,805 - INFO - Attempt 1: Fetching data for AAPL - year2month11
+2025-05-29 13:51:59,031 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 13:52:14,046 - INFO - Attempt 1: Fetching data for AAPL - year2month12
+2025-05-29 13:52:14,271 - WARNING - Unexpected response format:
+{
+    "Note": "The TIME_SERIES_INTRADAY_EXTENDED API has been merged with the regular TIME_SERIES_INTRADAY API. To query current and 20+ years of historical intraday data, please see the latest documentation and examples at https://www.alphavantage.co/documentation/#intraday. Thank you!"
+}
+2025-05-29 15:16:51,221 - INFO - Attempt 1: Fetching data for AAPL - year1month1
+2025-05-29 15:16:51,953 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:17:06,968 - INFO - Attempt 1: Fetching data for AAPL - year1month2
+2025-05-29 15:17:07,694 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:17:22,709 - INFO - Attempt 1: Fetching data for AAPL - year1month3
+2025-05-29 15:17:23,117 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:17:38,133 - INFO - Attempt 1: Fetching data for AAPL - year1month4
+2025-05-29 15:17:38,574 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:17:53,588 - INFO - Attempt 1: Fetching data for AAPL - year1month5
+2025-05-29 15:17:53,995 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:18:09,010 - INFO - Attempt 1: Fetching data for AAPL - year1month6
+2025-05-29 15:18:09,814 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:18:24,829 - INFO - Attempt 1: Fetching data for AAPL - year1month7
+2025-05-29 15:18:25,557 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:18:40,572 - INFO - Attempt 1: Fetching data for AAPL - year1month8
+2025-05-29 15:18:41,306 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:18:56,322 - INFO - Attempt 1: Fetching data for AAPL - year1month9
+2025-05-29 15:18:56,741 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:19:11,757 - INFO - Attempt 1: Fetching data for AAPL - year1month10
+2025-05-29 15:19:12,170 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:19:27,186 - INFO - Attempt 1: Fetching data for AAPL - year1month11
+2025-05-29 15:19:27,952 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:19:42,968 - INFO - Attempt 1: Fetching data for AAPL - year1month12
+2025-05-29 15:19:43,793 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:19:58,809 - INFO - Attempt 1: Fetching data for AAPL - year2month1
+2025-05-29 15:19:59,531 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:20:14,540 - INFO - Attempt 1: Fetching data for AAPL - year2month2
+2025-05-29 15:20:15,267 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:20:30,282 - INFO - Attempt 1: Fetching data for AAPL - year2month3
+2025-05-29 15:20:31,049 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:20:46,055 - INFO - Attempt 1: Fetching data for AAPL - year2month4
+2025-05-29 15:20:46,530 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:21:01,545 - INFO - Attempt 1: Fetching data for AAPL - year2month5
+2025-05-29 15:21:02,313 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:21:17,329 - INFO - Attempt 1: Fetching data for AAPL - year2month6
+2025-05-29 15:21:17,740 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:21:32,756 - INFO - Attempt 1: Fetching data for AAPL - year2month7
+2025-05-29 15:21:33,517 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:21:48,531 - INFO - Attempt 1: Fetching data for AAPL - year2month8
+2025-05-29 15:21:48,935 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:22:03,951 - INFO - Attempt 1: Fetching data for AAPL - year2month9
+2025-05-29 15:22:04,382 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:22:19,398 - INFO - Attempt 1: Fetching data for AAPL - year2month10
+2025-05-29 15:22:19,809 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:22:34,825 - INFO - Attempt 1: Fetching data for AAPL - year2month11
+2025-05-29 15:22:35,224 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
+2025-05-29 15:22:50,239 - INFO - Attempt 1: Fetching data for AAPL - year2month12
+2025-05-29 15:22:50,962 - WARNING - Unexpected response format:
+{
+    "Meta Data": {
+        "1. Information": "Intraday (15min) open, high, low, close prices and volume",
+        "2. Symbol": "AAPL",
+        "3. Last Refreshed": "2025-05-28 19:45:00",
+        "4. Interval": "15min",
+        "5. Output Size": "Compact",
+        "6. Time Zone": "US/Eastern"
+    }
