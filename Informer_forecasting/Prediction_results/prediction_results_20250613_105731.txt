@@ -1,0 +1,28 @@
+--- Prediction Results for the Next 24 Days ---
+Date: 2025-06-13, Predicted Close: 211.34
+Date: 2025-06-14, Predicted Close: 211.92
+Date: 2025-06-15, Predicted Close: 210.40
+Date: 2025-06-16, Predicted Close: 208.35
+Date: 2025-06-17, Predicted Close: 207.48
+Date: 2025-06-18, Predicted Close: 206.83
+Date: 2025-06-19, Predicted Close: 217.47
+Date: 2025-06-20, Predicted Close: 214.87
+Date: 2025-06-21, Predicted Close: 215.34
+Date: 2025-06-22, Predicted Close: 216.96
+Date: 2025-06-23, Predicted Close: 215.16
+Date: 2025-06-24, Predicted Close: 216.16
+Date: 2025-06-25, Predicted Close: 212.93
+Date: 2025-06-26, Predicted Close: 212.24
+Date: 2025-06-27, Predicted Close: 211.74
+Date: 2025-06-28, Predicted Close: 209.36
+Date: 2025-06-29, Predicted Close: 208.52
+Date: 2025-06-30, Predicted Close: 211.77
+Date: 2025-07-01, Predicted Close: 209.08
+Date: 2025-07-02, Predicted Close: 207.89
+Date: 2025-07-03, Predicted Close: 208.05
+Date: 2025-07-04, Predicted Close: 206.84
+Date: 2025-07-05, Predicted Close: 206.33
+Date: 2025-07-06, Predicted Close: 205.97
+
+Inference complete. Please note that these are model predictions for the future, and actual values are unknown.
+The accuracy of these true future predictions can only be verified when the actual data becomes available.
