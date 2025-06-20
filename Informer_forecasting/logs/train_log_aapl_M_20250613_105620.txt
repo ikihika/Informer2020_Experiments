@@ -1,0 +1,34 @@
+Args in experiment:
+Namespace(model='informer', data='custom', root_path='./data/', data_path='AAPL_M_2022-06-12_2025-06-12.csv', features='M', target='Close', freq='d', checkpoints='./checkpoints/', seq_len=96, label_len=48, pred_len=24, enc_in=5, dec_in=5, c_out=1, d_model=512, n_heads=8, e_layers=2, d_layers=1, s_layers=[3, 2, 1], d_ff=2048, factor=5, padding=0, distil=True, dropout=0.05, attn='prob', embed='timeF', activation='gelu', output_attention=False, do_predict=False, mix=True, cols=None, num_workers=4, itr=1, train_epochs=10, batch_size=16, patience=3, learning_rate=0.001, des='aapl_M_test_aapl_M_20250613_105620', loss='mse', lradj='type1', use_amp=False, inverse=False, use_gpu=True, gpu=0, use_multi_gpu=False, devices='0,1,2,3', detail_freq='d')
+Use GPU: cuda:0
+DEBUG: PositionalEmbedding __init__ received d_model: 512
+DEBUG: PositionalEmbedding __init__ received d_model: 512
+>>>>>>>start training : informer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_aapl_M_test_aapl_M_20250613_105620_0>>>>>>>>>>>>>>>>>>>>>>>>>>
+train 648
+val 88
+test 196
+Epoch: 1 cost time: 0.6078464984893799
+Epoch: 1, Steps: 40 | Train Loss: 2.1565887 Vali Loss: 6.7711411 Test Loss: 7.4117894
+Validation loss decreased (inf --> 6.771141).  Saving model ...
+Updating learning rate to 0.001
+Epoch: 2 cost time: 0.34868788719177246
+Epoch: 2, Steps: 40 | Train Loss: 0.5492921 Vali Loss: 3.9088798 Test Loss: 4.0788155
+Validation loss decreased (6.771141 --> 3.908880).  Saving model ...
+Updating learning rate to 0.0005
+Epoch: 3 cost time: 0.3493804931640625
+Epoch: 3, Steps: 40 | Train Loss: 0.5431190 Vali Loss: 4.7745771 Test Loss: 5.1390147
+EarlyStopping counter: 1 out of 3
+Updating learning rate to 0.00025
+Epoch: 4 cost time: 0.3785099983215332
+Epoch: 4, Steps: 40 | Train Loss: 0.5111512 Vali Loss: 4.2312446 Test Loss: 4.5252299
+EarlyStopping counter: 2 out of 3
+Updating learning rate to 0.000125
+Epoch: 5 cost time: 0.40841054916381836
+Epoch: 5, Steps: 40 | Train Loss: 0.5025436 Vali Loss: 4.1303205 Test Loss: 4.2405801
+EarlyStopping counter: 3 out of 3
+Early stopping
+>>>>>>>testing : informer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_aapl_M_test_aapl_M_20250613_105620_0<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+test 196
+test shape: (12, 16, 24, 1) (12, 16, 24, 5)
+test shape: (192, 24, 1) (192, 24, 5)
+mse:4.084820747375488, mae:1.8203586339950562
