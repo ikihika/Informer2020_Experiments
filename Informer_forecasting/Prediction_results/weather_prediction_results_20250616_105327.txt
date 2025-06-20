@@ -1,0 +1,28 @@
+--- Prediction Results for the Next 24 Days (from 2025-06-16) ---
+Date: 2025-06-16, Predicted temperature_2m_max: 22.81, Predicted temperature_2m_min: 18.88, Predicted precipitation_sum: 2.86
+Date: 2025-06-17, Predicted temperature_2m_max: 24.82, Predicted temperature_2m_min: 19.20, Predicted precipitation_sum: 8.96
+Date: 2025-06-18, Predicted temperature_2m_max: 25.67, Predicted temperature_2m_min: 19.36, Predicted precipitation_sum: 11.85
+Date: 2025-06-19, Predicted temperature_2m_max: 25.56, Predicted temperature_2m_min: 19.35, Predicted precipitation_sum: 11.14
+Date: 2025-06-20, Predicted temperature_2m_max: 25.81, Predicted temperature_2m_min: 19.42, Predicted precipitation_sum: 11.87
+Date: 2025-06-21, Predicted temperature_2m_max: 25.98, Predicted temperature_2m_min: 19.46, Predicted precipitation_sum: 12.43
+Date: 2025-06-22, Predicted temperature_2m_max: 27.88, Predicted temperature_2m_min: 19.46, Predicted precipitation_sum: 16.80
+Date: 2025-06-23, Predicted temperature_2m_max: 28.27, Predicted temperature_2m_min: 19.66, Predicted precipitation_sum: 17.20
+Date: 2025-06-24, Predicted temperature_2m_max: 28.54, Predicted temperature_2m_min: 19.72, Predicted precipitation_sum: 14.79
+Date: 2025-06-25, Predicted temperature_2m_max: 28.06, Predicted temperature_2m_min: 19.75, Predicted precipitation_sum: 16.94
+Date: 2025-06-26, Predicted temperature_2m_max: 28.70, Predicted temperature_2m_min: 19.71, Predicted precipitation_sum: 19.81
+Date: 2025-06-27, Predicted temperature_2m_max: 28.93, Predicted temperature_2m_min: 19.79, Predicted precipitation_sum: 20.18
+Date: 2025-06-28, Predicted temperature_2m_max: 28.98, Predicted temperature_2m_min: 19.80, Predicted precipitation_sum: 20.28
+Date: 2025-06-29, Predicted temperature_2m_max: 29.04, Predicted temperature_2m_min: 19.80, Predicted precipitation_sum: 20.52
+Date: 2025-06-30, Predicted temperature_2m_max: 29.07, Predicted temperature_2m_min: 19.79, Predicted precipitation_sum: 20.68
+Date: 2025-07-01, Predicted temperature_2m_max: 32.40, Predicted temperature_2m_min: 20.88, Predicted precipitation_sum: 27.95
+Date: 2025-07-02, Predicted temperature_2m_max: 32.84, Predicted temperature_2m_min: 21.10, Predicted precipitation_sum: 28.78
+Date: 2025-07-03, Predicted temperature_2m_max: 32.07, Predicted temperature_2m_min: 20.57, Predicted precipitation_sum: 26.35
+Date: 2025-07-04, Predicted temperature_2m_max: 31.72, Predicted temperature_2m_min: 20.75, Predicted precipitation_sum: 26.28
+Date: 2025-07-05, Predicted temperature_2m_max: 30.12, Predicted temperature_2m_min: 20.04, Predicted precipitation_sum: 22.50
+Date: 2025-07-06, Predicted temperature_2m_max: 29.77, Predicted temperature_2m_min: 19.88, Predicted precipitation_sum: 21.76
+Date: 2025-07-07, Predicted temperature_2m_max: 29.69, Predicted temperature_2m_min: 19.92, Predicted precipitation_sum: 21.41
+Date: 2025-07-08, Predicted temperature_2m_max: 29.60, Predicted temperature_2m_min: 19.84, Predicted precipitation_sum: 21.36
+Date: 2025-07-09, Predicted temperature_2m_max: 29.51, Predicted temperature_2m_min: 19.81, Predicted precipitation_sum: 21.18
+
+Inference complete. Please note that these are model predictions for the future, and actual values are unknown.
+The accuracy of these true future predictions can only be verified when the actual data becomes available.
